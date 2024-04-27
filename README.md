@@ -28,14 +28,14 @@ a5d9d31e1fd3   httpd     "httpd-foreground"       About a minute ago   Exited (0
 57b67b8f1b13   nginx     "/docker-entrypoint.…"   About a minute ago   Up About a minute          80/tcp    intelligent_wilson
 iemafzal~
 ```
-
-
-![image](../Docker/Images/Docker%201.1%20.png)
+<img width="1440" alt="Docker 1 1 " src="https://github.com/iemafzalhassan/Docker/assets/136967348/eea86783-582a-4ac7-87fd-1eeeb4ff5a70">
 
 </div>
 
 
 ### **Docker Exercise 1.2**
+
+<div align="centre"
 
 >CLEANUP
 
@@ -79,4 +79,7 @@ iemafzal~docker ps
 CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
 iemafzal~
 ```
-![image](../Docker/Images/Docker%201.2%20.png)
+</div>
+
+<img width="1427" alt="Docker 1 2 " src="https://github.com/iemafzalhassan/Docker/assets/136967348/d77a77c0-6e80-450a-be81-ca362e856425">
+
